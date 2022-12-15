@@ -7,6 +7,10 @@ public class Generic
 	   System.out.println("This is generic Practice");
 	   
 	   
+
 	   System.out.println("Changes");
+
+	   
+	   System.out.println("Practice for conflict");
    }
 }
